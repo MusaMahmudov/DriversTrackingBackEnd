@@ -1,0 +1,17 @@
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\bin\Release\net6.0\AbelloLLC.DataAccess.deps.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\bin\Release\net6.0\AbelloLLC.DataAccess.runtimeconfig.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\bin\Release\net6.0\AbelloLLC.DataAccess.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\bin\Release\net6.0\AbelloLLC.DataAccess.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\bin\Release\net6.0\AbelloLLC.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\bin\Release\net6.0\AbelloLLC.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.AssemblyInfo.cs
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.csproj.CopyComplete
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\refint\AbelloLLC.DataAccess.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\AbelloLLC.DataAccess.genruntimeconfig.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.DataAccess\obj\Release\net6.0\ref\AbelloLLC.DataAccess.dll

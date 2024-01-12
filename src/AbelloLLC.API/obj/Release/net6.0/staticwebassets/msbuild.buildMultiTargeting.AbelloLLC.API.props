@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AbelloLLC.API.props" />
+</Project>

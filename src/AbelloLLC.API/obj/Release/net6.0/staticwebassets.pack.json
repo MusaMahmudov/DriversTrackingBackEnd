@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\binch\\OneDrive\\Рабочий стол\\TuranProject\\AbelloLLC\\src\\AbelloLLC.API\\wwwroot\\assets\\templates\\reset-password.html",
+      "PackagePath": "staticwebassets\\assets\\templates\\reset-password.html"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.AbelloLLC.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.AbelloLLC.API.props",
+      "PackagePath": "build\\AbelloLLC.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AbelloLLC.API.props",
+      "PackagePath": "buildMultiTargeting\\AbelloLLC.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.AbelloLLC.API.props",
+      "PackagePath": "buildTransitive\\AbelloLLC.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

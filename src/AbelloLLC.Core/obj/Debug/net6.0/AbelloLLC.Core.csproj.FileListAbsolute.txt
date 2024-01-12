@@ -1,0 +1,12 @@
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\bin\Debug\net6.0\AbelloLLC.Core.deps.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\bin\Debug\net6.0\AbelloLLC.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\bin\Debug\net6.0\AbelloLLC.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\AbelloLLC.Core.csproj.AssemblyReference.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\AbelloLLC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\AbelloLLC.Core.AssemblyInfoInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\AbelloLLC.Core.AssemblyInfo.cs
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\AbelloLLC.Core.csproj.CoreCompileInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\AbelloLLC.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\refint\AbelloLLC.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\AbelloLLC.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Core\obj\Debug\net6.0\ref\AbelloLLC.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\bin\Release\net6.0\AbelloLLC.Business.deps.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\bin\Release\net6.0\AbelloLLC.Business.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\bin\Release\net6.0\AbelloLLC.Business.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\bin\Release\net6.0\AbelloLLC.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\bin\Release\net6.0\AbelloLLC.DataAccess.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\bin\Release\net6.0\AbelloLLC.DataAccess.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\bin\Release\net6.0\AbelloLLC.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.csproj.AssemblyReference.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.AssemblyInfoInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.AssemblyInfo.cs
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.csproj.CoreCompileInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.csproj.CopyComplete
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\refint\AbelloLLC.Business.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\AbelloLLC.Business.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProject\AbelloLLC\src\AbelloLLC.Business\obj\Release\net6.0\ref\AbelloLLC.Business.dll
